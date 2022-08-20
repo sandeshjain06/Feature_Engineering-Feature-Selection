@@ -10,10 +10,10 @@
 
 **3. Mutual Gain**
 
-          I
+          
 **4. Chi-Square**
 
-          I
+         
 **5.Feature Selection Technique from ML 
 
           Sklearn - Select From Model()
