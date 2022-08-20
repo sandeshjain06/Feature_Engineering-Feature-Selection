@@ -14,7 +14,7 @@
 **4. Chi-Square**
 
          
-**5.Feature Selection Technique from ML 
+**5.Feature Selection Technique from ML**
 
           Sklearn - Select From Model()
           Sklearn - RFE - Recursive Feature Elimination
